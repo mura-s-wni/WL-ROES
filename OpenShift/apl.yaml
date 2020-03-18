@@ -1,0 +1,24 @@
+Timestamp: Wed Mar 18 2020 14:25:59 GMT+0900 (JST)
+project_name: wl-roes
+project_description: wonderland-river-overflow-evacuation-support
+github_repository_url: https://github.com/weathernews/WL-ROES.git
+environment: PT
+subdomain: pt-wrap-ea.wni.com
+icdb: false
+pdb: false
+ndb: false
+bandwidth_traffic_gb: 0.1
+storage_gb: 10
+max_users: 10
+cpu_ghz: 4
+num_cpu: 4
+memory_gb: 8
+apl_comitter_email: inamura@wni.com
+use_rdb: false
+database_name: null
+database_user: null
+database_password: null
+use_keycloak_db: false
+keycloak_db_name: null
+keycloak_db_user: null
+keycloak_db_password: null
